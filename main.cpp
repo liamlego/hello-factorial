@@ -16,6 +16,7 @@ void test01() {
 void test02() {
   assert(fact(-1) == 1);
   assert(fact(5) == 120);
+  assert(fact(31) == -1);
 }
 
 int main() {
