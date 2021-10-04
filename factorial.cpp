@@ -35,4 +35,3 @@ int memoryLeakFunction() {
   delete[] arr;
   return 0;
 }
-
